@@ -6,15 +6,15 @@ Este é um simples projeto em Python que simula uma conta bancária. A classe Co
 
 **Depósito**
 
-Para realizar um depósito, basta chamar o método depositar(valor), informando o valor que deseja depositar. O sistema registrará o depósito, atualizará o saldo e fornecerá uma mensagem de sucesso.
+Para realizar um depósito, basta chamar o método **depositar(valor)**, informando o valor que deseja depositar. O sistema registrará o depósito, atualizará o saldo e fornecerá uma mensagem de sucesso.
 
 **Saque**
 
-Para efetuar um saque, use o método sacar(valor), informando o valor desejado. O sistema verifica se o saque é válido (limite diário e saldo suficiente) e, se sim, realiza o saque, atualiza o saldo e fornece uma mensagem de sucesso.
+Para efetuar um saque, use o método **sacar(valor)**, informando o valor desejado. O sistema verifica se o saque é válido (limite diário e saldo suficiente) e, se sim, realiza o saque, atualiza o saldo e fornece uma mensagem de sucesso.
 
 **Extrato**
 
-O método extrato() gera um extrato bancário, exibindo todos os depósitos, saques e o saldo atual.
+O método **extrato()** gera um extrato bancário, exibindo todos os depósitos, saques e o saldo atual.
 
 **Operação de Saída**
 
